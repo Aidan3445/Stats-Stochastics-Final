@@ -1,0 +1,93 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.18.1"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "ffa3a08d03bf6810fa4f9f4feebdce18",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "sMaK",
+      "code_hash": "1623d1b2d873fa838c253a84fc80d195",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RxSv",
+      "code_hash": "9248a72c808bce0abdb0da9364c02e76",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZkOj",
+      "code_hash": "acd3c0022b517b60d2459b2f663501c5",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "fbid",
+      "code_hash": "37f5672453cba3667a3ad36969cae093",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "edEc",
+      "code_hash": "b84204776988fe52a51cff37a6a721f7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "\nPlayer: Sabalenka\nService Point Win Probability: 0.599\nReturn Point Win Probability: 0.448\nProbability of winning a game when serving: 0.734\nProbability of winning a game when returning: 0.372\nProbability of winning a set: 0.666\nProbability of winning a match: 0.740\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    }
+  ]
+}
